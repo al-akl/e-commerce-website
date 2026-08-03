@@ -30,8 +30,6 @@ e-commerce-project/
 │
 ├── novastore/
 |    |
-|    ├── api/                         # REST API endpoint to fetch products
-|    |
 |    ├── assets/                      # Static assets
 |    |     ├── css/                   # Stylesheets
 |    |     ├── images/                # Product Images
