@@ -5,7 +5,7 @@ This project demonstrates the design and development of a full-stack e-commerce 
 ---
 # Application Architecture  
 The application architecture for this project follows the Model-View-Controller (MVC) architecture:
-![application-architecture-image](https://github.com/arkanthrive/e-commerce-website/blob/0ec5798e771ff344dd7f2e85299011d738fe654f/docs/application-architecture.png)
+![application-architecture-image](https://github.com/al-akl/e-commerce-website/blob/4cae4ab38d4024c4f3cf281956b7072bda68e700/docs/application-architecture.png)
 
 ---
 # Project Requirements  
