@@ -72,4 +72,4 @@ The HTML and CSS components of this project were initially generated with the as
 
 ---
 # About Me  
-Hello! I'm Arkanthrive, a third-year Computer and Communication Engineering student. I'm passionate about technology and enjoy learning new concepts on my own. I'm always looking for opportunities to improve my skills and build projects that challenge me.
+Hello! I'm Elias ALAKL, a third-year Computer and Communication Engineering student. I'm passionate about technology and enjoy learning new concepts on my own. I'm always looking for opportunities to improve my skills and build projects that challenge me.
