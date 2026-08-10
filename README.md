@@ -65,7 +65,7 @@ e-commerce-project/
 ├── README.md                                    
 ```
 ---
-# AI Tools  
+# AI Usage  
 The HTML and CSS components of this project were initially generated with the assistance of AI and then adapted and refined by me. All PHP backend development, JavaScript functionality, database design, MVC architecture, and feature integration were implemented by me. Throughout development, AI was additionally used as a debugging assistant and to clarify technical concepts.  
 
 ---
