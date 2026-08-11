@@ -24,6 +24,11 @@ __Specifications__
 - __Database:__ Store and manage application data using MySQL.
 
 ---
+# Tools Used
+- Visual Studio Code: Write HTML, CSS, JavaScript and PHP files
+- XAMPP: Run Apache and MySQL databases.
+- DrawIO: Design application architecture, and data model.
+---
 # Repository Structure  
 ```text
 e-commerce-project/
