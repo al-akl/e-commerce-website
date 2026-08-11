@@ -25,9 +25,9 @@ __Specifications__
 
 ---
 # Tools Used
-- Visual Studio Code: Write HTML, CSS, JavaScript and PHP files
-- XAMPP: Run Apache and MySQL databases.
-- DrawIO: Design application architecture, and data model.
+- __Visual Studio Code:__ Write HTML, CSS, JavaScript and PHP files
+- __XAMPP:__ Run Apache and MySQL databases.
+- __DrawIO:__ Design application architecture, and data model.
 ---
 # Repository Structure  
 ```text
